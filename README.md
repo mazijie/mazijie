@@ -1,4 +1,4 @@
-细斟梅子酒，举杯绘轻欢。
+I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree.
 
 <!---
 mazijie/mazijie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
