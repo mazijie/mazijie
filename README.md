@@ -1,4 +1,8 @@
-I am MA ZIJIE, a graduate student at Beihang University, currently pursuing a master's degree.
+I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazijie&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazijie&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazijie)
+
 
 <!---
 mazijie/mazijie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
