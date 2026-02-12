@@ -1,4 +1,4 @@
-I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree.
+I am MA ZIJIE, a graduate student at Beihang University, currently pursuing a master's degree.
 
 <!---
 mazijie/mazijie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
