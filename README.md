@@ -1,5 +1,5 @@
 I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazijie&show_icons=true&hide_title=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazijie)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazijie&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazijie)
 
