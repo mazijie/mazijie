@@ -1,5 +1,4 @@
-I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree.
-My interests are vector databases and data-driven AI productivity.
+I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree. 
 
 
 <!---
