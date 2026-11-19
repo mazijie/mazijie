@@ -1,4 +1,4 @@
-I am Zijie Ma, a graduate student at Beihang University, currently pursuing a master's degree. 
+登高而招，臂非加长也，而见者远；顺风而呼，声非加疾也，而闻者彰。假舆马者，非利足也，而致千里；假舟楫者，非能水也，而绝江河。
 
 
 <!---
